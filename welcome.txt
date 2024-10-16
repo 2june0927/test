@@ -1,0 +1,5 @@
+반갑다!
+git init -> enter
+
+ git config --grobal user.name "yj"
+git config --global
