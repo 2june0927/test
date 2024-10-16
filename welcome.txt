@@ -1,5 +1,17 @@
-반갑다!
-git init -> enter
+반갑다
 
- git config --grobal user.name "yj"
-git config --global
+
+
+git init -> enter
+git config --grobal user.name "yj"
+git config --global user.email "2junego@naver.com"
+git add .
+git status
+
+
+
+git commit -m "메세지 꼭 적기"
+버전을 기록하는 명령어
+
+git log 
+ commit 373878492374892--> hash 넘버
