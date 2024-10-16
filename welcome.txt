@@ -15,3 +15,6 @@ git commit -m "메세지 꼭 적기"
 
 git log 
  commit 373878492374892--> hash 넘버
+
+
+마케팅 시러
